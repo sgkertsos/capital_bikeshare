@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: src
-    database: cosmic-talent-386914
+    database: avian-casing-411221
     schema: capitalbike_share
     tables:
       - name: bikeshare_data
